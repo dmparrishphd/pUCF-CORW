@@ -1,2 +1,2 @@
-# pUCF-CORW
-Program for Universal Computational Freedom
+The Program for Universal Computational Freedom
+===============================================
